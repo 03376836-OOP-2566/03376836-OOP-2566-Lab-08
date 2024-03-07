@@ -2,8 +2,6 @@
 
 ## Overriding base class member 
 
-![alt text](./Pictures/image02.png)
-
 1. สร้าง console application project
 
 ```cmd
