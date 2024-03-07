@@ -12,7 +12,7 @@ dotnet new console --name Lab08_Ex09
 
 ```cs
 DerivedClass dc = new DerivedClass();
-System.Console.WriteLine(dc.Hello);
+dc.PrintBaseHello();
 
 class BaseClass
 {
@@ -21,6 +21,12 @@ class BaseClass
 class DerivedClass : BaseClass
 {
     new public string Hello = "Hello From DerivedClass";
+
+    public void PrintBaseHello()
+    {
+        string BaseHello = base.Hello;
+        System.Console.WriteLine(BaseHello);
+    }
 }
 ```
 
