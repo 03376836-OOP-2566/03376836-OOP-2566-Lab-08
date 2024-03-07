@@ -1,6 +1,6 @@
 # Lab 8 Exercise 7
 
-## Overriding base class member 
+## Overriding base class member
 
 1. สร้าง console application project
 

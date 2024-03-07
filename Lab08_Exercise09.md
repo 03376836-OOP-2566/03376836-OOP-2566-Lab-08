@@ -1,6 +1,6 @@
 # Lab 8 Exercise 9
 
-## Access base member by `base` keyword 
+## Access base member by `base` keyword
 
 1. สร้าง console application project
 

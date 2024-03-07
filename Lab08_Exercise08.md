@@ -1,6 +1,6 @@
 # Lab 8 Exercise 8
 
-## Masking base class member with `new` keyword 
+## Masking base class member with `new` keyword
 
 1. สร้าง console application project
 
