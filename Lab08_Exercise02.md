@@ -1,11 +1,11 @@
-# Lab 8 Exercise 1
+# Lab 8 Exercise 2
 
 ## Class Inheritance การใช้งาน method และ field ของ base และ  derived class
 
 1. สร้าง console application project
 
 ```cmd
-dotnet new console --name Lab08_Ex01
+dotnet new console --name Lab08_Ex02
 ```
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
@@ -39,7 +39,7 @@ class DerivedClass: BaseClass
 3.Build project โดยการใช้คำสั่ง
 
 ```cmd
-dotnet build  Lab08_Ex01
+dotnet build  Lab08_Ex02
 ```
 
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
@@ -49,7 +49,7 @@ dotnet build  Lab08_Ex01
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
-dotnet run --project Lab08_Ex01
+dotnet run --project Lab08_Ex02
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5

@@ -1,13 +1,13 @@
-# Lab 8 Exercise 3
+# Lab 8 Exercise 4
 
-## Class inheritance 1
+## Class inheritance 2
 
 ![alt text](./Pictures/image01.png)
 
 1. สร้าง console application project
 
 ```cmd
-dotnet new console --name Lab08_Ex03
+dotnet new console --name Lab08_Ex04
 ```
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
@@ -29,7 +29,7 @@ class BaseClass2
     }
  }
 
-class DerivedClass : BaseClass1
+class DerivedClass : BaseClass2
 {
     public DerivedClass()
     {
@@ -41,7 +41,7 @@ class DerivedClass : BaseClass1
 3.Build project โดยการใช้คำสั่ง
 
 ```cmd
-dotnet build  Lab08_Ex03
+dotnet build  Lab08_Ex04
 ```
 
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
@@ -51,7 +51,7 @@ dotnet build  Lab08_Ex03
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
-dotnet run --project Lab08_Ex03
+dotnet run --project Lab08_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
