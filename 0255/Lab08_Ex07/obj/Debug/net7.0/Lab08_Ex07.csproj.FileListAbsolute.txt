@@ -1,0 +1,15 @@
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\bin\Debug\net7.0\Lab08_Ex07.exe
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\bin\Debug\net7.0\Lab08_Ex07.deps.json
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\bin\Debug\net7.0\Lab08_Ex07.runtimeconfig.json
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\bin\Debug\net7.0\Lab08_Ex07.dll
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\bin\Debug\net7.0\Lab08_Ex07.pdb
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.csproj.AssemblyReference.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.AssemblyInfoInputs.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.AssemblyInfo.cs
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.csproj.CoreCompileInputs.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.dll
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\refint\Lab08_Ex07.dll
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.pdb
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\Lab08_Ex07.genruntimeconfig.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-08\0255\Lab08_Ex07\obj\Debug\net7.0\ref\Lab08_Ex07.dll
