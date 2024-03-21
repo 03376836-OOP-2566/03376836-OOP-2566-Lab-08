@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\bin\Debug\net8.0\Lab08_Ex09.exe
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\bin\Debug\net8.0\Lab08_Ex09.deps.json
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\bin\Debug\net8.0\Lab08_Ex09.runtimeconfig.json
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\bin\Debug\net8.0\Lab08_Ex09.dll
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\bin\Debug\net8.0\Lab08_Ex09.pdb
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.AssemblyInfo.cs
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.sourcelink.json
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.dll
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\refint\Lab08_Ex09.dll
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.pdb
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\Lab08_Ex09.genruntimeconfig.cache
+C:\Users\PC\OneDrive\เดสก์ท็อป\HBD Prise\03376836-OOP-2566-Lab-08\0028\Lab08_Ex09\obj\Debug\net8.0\ref\Lab08_Ex09.dll
