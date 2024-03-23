@@ -48,3 +48,17 @@ dotnet run --project Lab08_Ex07
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-08/assets/144197034/10809ea7-e901-49ff-a31c-b630c804b77f)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+จากการทดลองนี้เริ่มต้นด้วยการสร้างอ็อบเจกต์ dc ของคลาส DerivedClass และพร้อมทั้งแสดงค่าของ dc.Hello ผ่านทางเมธอด WriteLine ของ Console
+
+ในคลาส BaseClass มีตัวแปร Hello ที่ถูกกำหนดค่าเป็น "Hello From BaseClass" ซึ่งเป็นตัวแปรสมาชิก (member variable) แบบ public ซึ่งสามารถเข้าถึงได้จากภายนอกคลาสด้วยเครื่องหมาย 
+
+ในคลาส DerivedClass ก็มีตัวแปร Hello ที่ถูกกำหนดค่าเป็น "Hello From DerivedClass" โดยตัวแปร Hello ใน DerivedClass นี้มีชื่อเหมือนกันกับตัวแปร Hello ใน BaseClass แต่มีขอบเขตของการใช้งานแยกกัน ซึ่งถ้ามีการเข้าถึงจากภายนอกคลาส DerivedClass จะใช้ตัวแปร Hello ที่ถูกกำหนดใน DerivedClass นี้เท่านั้น ซึ่งมีค่าเป็น "Hello From DerivedClass" ไม่ได้สืบทอดค่าจาก BaseClass
+
+เมื่อทดลองรันโปรแกรมนี้ จะแสดงผลลัพธ์ดังนี้
+
+Hello From BaseClass
+
+จะเห็นว่าค่าที่แสดงออกมาไม่ใช่ "Hello From DerivedClass" ดังนั้นค่า Hello ที่ถูกเข้าถึงนั้นเป็นค่าของตัวแปร Hello ใน BaseClass ไม่ใช่ใน DerivedClass นั่นเอง แม้ว่า dc จะเป็นอ็อบเจกต์ของ DerivedClass ก็ตาม การเข้าถึงตัวแปรสมาชิกใน C# ไม่ได้สืบทอดการทับของค่าตัวแปร แต่จะใช้ค่าของคลาสที่เป็นประเภทของตัวแปรที่ถูกประกาศโดยตรง ในที่นี้คือ BaseClass นั่นเอง
+
+จากคำสั่งจะเห็นผลการทดลองดังภาพด้านบน
