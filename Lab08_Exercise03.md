@@ -61,3 +61,10 @@ dotnet run --project Lab08_Ex03
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-08/assets/144197034/01ac6a48-db07-45cd-9a1d-08c27b4cc24a)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+จากการทดลองจะเห็นว่า เป็นการสร้างคลาส BaseClass1 และ BaseClass2 และ DerivedClass โดย DerivedClass เป็นซับคลาสของ BaseClass1 ซึ่งหมายความว่า DerivedClass สืบทอดคุณสมบัติจาก BaseClass1 และสามารถมีคุณสมบัติเพิ่มเติมได้ ในที่นี้ไม่ได้มีการเพิ่มคุณสมบัติใดๆ เพิ่มเติมใน DerivedClass การสร้างอ็อบเจกต์ของ DerivedClass ด้วยตัวแปรชนิด DerivedClass ซึ่งเรียกว่า dc จะทำให้คอนสตรักเตอร์ของ DerivedClass ถูกเรียก ซึ่งในที่นี้คือการแสดงข้อความ "This is DerivedClass" ผ่านคอนโสตรักเตอร์ของ DerivedClass DerivedClass สืบทอดจาก BaseClass1 คลาสที่มีคอนสตรักเตอร์ ซึ่งในที่นี้ไม่ได้ระบุคอนสตรักเตอร์แต่เนื่องจากไม่มีการระบุคอนสตรักเตอร์ใดๆ ในคลาส BaseClass1 จึงถือว่าคอนสตรักเตอร์เริ่มต้น  ของ BaseClass1 ถูกเรียก ซึ่งจะแสดงข้อความ "This is BaseClass1"ผลลัพธ์ที่คาดหวังจากการสร้างอ็อบเจกต์ของ DerivedClass คือการแสดงข้อความตามลำดับ คือ 
+This is BaseClass1"
+
+"This is DerivedClass"
+
+ตามภาพด้านบน
