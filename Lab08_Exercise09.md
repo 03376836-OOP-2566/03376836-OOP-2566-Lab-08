@@ -53,3 +53,19 @@ dotnet run --project Lab08_Ex09
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-08/assets/144197034/6723ad35-18b5-486a-9406-a4f54de5b437)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+จากการทดลอง เริ่มต้นด้วยการสร้างอ็อบเจกต์ dc ของคลาส DerivedClass และให้เรียกเมธอด PrintBaseHello() ของ dc ขึ้นมา
+
+ในคลาส BaseClass มีตัวแปร Hello ที่ถูกกำหนดค่าเป็น "Hello From BaseClass" ซึ่งเป็นตัวแปรสมาชิก (member variable) แบบ public ซึ่งสามารถเข้าถึงได้จากภายนอกคลาสด้วยเครื่องหมาย .
+
+ในคลาส DerivedClass เรากำหนดตัวแปร Hello ใหม่ (new) เพื่อบอกว่าเราไม่ต้องการสืบทอดตัวแปร Hello จาก BaseClass แต่ต้องการสร้างตัวแปรใหม่ที่มีชื่อเหมือนกันใน DerivedClass โดยมีค่าเป็น "Hello From DerivedClass" แทน
+
+ใน DerivedClass เรามีเมธอด PrintBaseHello() ที่ใช้เพื่อพิมพ์ค่าของตัวแปร Hello ใน BaseClass โดยใช้คำสั่ง base.Hello ซึ่งจะทำให้เข้าถึงตัวแปร Hello ใน BaseClass
+
+เมื่อทดลองรันโปรแกรมนี้ จะแสดงผลลัพธ์ดังนี้
+
+Hello From BaseClass
+
+จะเห็นว่าค่าที่แสดงออกมาเป็น "Hello From BaseClass" ซึ่งเป็นค่าของตัวแปร Hello ใน BaseClass ซึ่งถูกเข้าถึงผ่าน PrintBaseHello() ใน DerivedClass ด้วยคำสั่ง base.Hello ตามที่กำหนดไว้ในโค้ด
+
+ดังนั้นเราจะเห็นการแสดงผลของผลลัพธ์ดังภาพด้านบน
