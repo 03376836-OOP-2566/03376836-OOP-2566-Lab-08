@@ -47,3 +47,16 @@ dotnet run --project Lab08_Ex08
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-08/assets/144197034/a5099ab4-4a0e-4bb8-b530-36fc6663ba43)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+
+จากการทดลองนี้เรามีการสร้างอ็อบเจกต์ dc ของคลาส DerivedClass และพร้อมทั้งแสดงค่าของ dc.Hello ผ่านทางเมธอด WriteLine ของ Console
+
+ในคลาส BaseClass มีตัวแปร Hello ที่ถูกกำหนดค่าเป็น "Hello From BaseClass" ซึ่งเป็นตัวแปรสมาชิก (member variable) แบบ public ซึ่งสามารถเข้าถึงได้จากภายนอกคลาสด้วยเครื่องหมาย  
+
+ในคลาส DerivedClass เรากำหนดตัวแปร Hello ใหม่ (new) เพื่อบอกว่าเราไม่ต้องการสืบทอดตัวแปร Hello จาก BaseClass แต่ต้องการสร้างตัวแปรใหม่ที่มีชื่อเหมือนกันใน DerivedClass โดยมีค่าเป็น "Hello From DerivedClass" แทน
+
+เมื่อทดลองรันโปรแกรมนี้ จะแสดงผลลัพธ์ดังนี้
+
+Hello From DerivedClass
+
+จะเห็นว่าค่าที่แสดงออกมาเป็น "Hello From DerivedClass" ตามที่กำหนดใน DerivedClass นั่นเอง ดังนั้นการใช้งาน new ในการสร้างตัวแปรใหม่ใน DerivedClass ได้ทำให้ค่าของตัวแปร Hello ถูกเปลี่ยนแปลงในขอบเขตของ DerivedClass เท่านั้น ไม่ได้ส่งผลกับตัวแปร Hello ใน BaseClass จากการทดลองจะได้ผลลัพธ์ดังด้านบน
