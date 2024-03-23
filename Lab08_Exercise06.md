@@ -70,7 +70,7 @@ BaseClass1 เป็นคลาสที่มีคอนสตรักเต
 
 ผ่านคอนโสตรักเตอร์ของ BaseClass1 เมื่อสร้างอ็อบเจกต์ dc ของคลาส DerivedClass จะเกิดการเรียกใช้คอนสตรักเตอร์ของ DerivedClass ซึ่งจะแสดงข้อความ "This is DerivedClass" ผ่านทางคอนโสตรักเตอร์ของ DerivedClass และเนื่องจาก BaseClass2 สืบทอดจาก BaseClass1 จึงเกิดการเรียกใช้คอนสตรักเตอร์ของ BaseClass2 และ BaseClass1 ตามลำดับ ซึ่งจะแสดงข้อความ "This is BaseClass2" และ "This is BaseClass1" ตามลำดับด้วย 
 
-ผลลัพธ์ที่คาดหวัง
+ผลลัพธ์ที่ได้
 
 This is BaseClass1
 
