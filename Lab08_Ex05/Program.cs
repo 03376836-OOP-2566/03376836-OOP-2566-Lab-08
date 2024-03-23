@@ -1,4 +1,4 @@
-﻿DerivedClass dc = new DerivedClass();
+﻿﻿DerivedClass dc = new DerivedClass();
 class BaseClass1
  {
     public BaseClass1()
@@ -14,7 +14,7 @@ class BaseClass2
     }
  }
 
-class DerivedClass : BaseClass1, BaseClass2
+class DerivedClass : BaseClass1
 {
     public DerivedClass()
     {
