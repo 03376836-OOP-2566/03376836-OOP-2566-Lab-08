@@ -59,3 +59,5 @@ dotnet run --project Lab08_Ex02
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-08/assets/144197034/3bd1c765-0f13-412f-b0ca-4ecafdce681f)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+จากการทดลองจะเห็นว่า มีการสร้างคลาส BaseClass และ DerivedClass โดย DerivedClass เป็นซับคลาสของ BaseClass ซึ่งหมายความว่า DerivedClass สืบทอดคุณสมบัติจาก BaseClass และสามารถมีคุณสมบัติเพิ่มเติมได้ ในที่นี้คือการเพิ่มฟิลด์ Field2 และเมธอด Method2 ใน DerivedClass  เราสร้างอ็อบเจกต์ของ DerivedClass ด้วยตัวแปร dc และทดสอบการเรียกเมธอดและการเข้าถึงฟิลด์ของทั้ง BaseClass และ DerivedClass ผ่านอ็อบเจกต์ dc จากโค้ดของ  dc.Method1(dc.Field1);: เรียกเมธอด Method1 ของ BaseClass ด้วยการส่งค่าของฟิลด์ Field1 ของ DerivedClass ผลลัพธ์ที่คาดหวังคือ "Method1() in BaseClass, string input = Field 1 in BaseClass" เช่นเดียวกันกับ dc.Method2(dc.Field1);: เรียกเมธอด Method2 ของ DerivedClass ดังนั้นจากโค้ดทั้งหมดจะสรุแได้ว่า เป็นการเรียกเมธอดและการเข้าถึงฟิลด์ในซับคลาส DerivedClass สามารถทำได้ทั้งแบบใช้เมธอดและฟิลด์ของ BaseClass และแบบใช้เมธอดและฟิลด์ของ DerivedClass ตามต้องการแต่ละกรณีที่นำมาใช้งาน เราจะเห็นการแสดงผลดังภาพด้านบน
