@@ -46,6 +46,8 @@ dotnet build  Lab08_Ex02
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="556" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-08/assets/144195963/06d80378-493f-4385-b1af-60125bf0986d">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -54,4 +56,11 @@ dotnet run --project Lab08_Ex02
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="551" alt="Screenshot 2024-03-24 040057" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-08/assets/144195963/d7ba11b3-4c39-4fb3-a730-f732c4cbfb97">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+Method1() in BaseClass, string input = Field 1 in BaseClass
+Method2() in DerivedClass, string input = Field 1 in BaseClass
+Method1() in BaseClass, string input = Field 2 in DerivedClass
+Method2() in DerivedClass, string input = Field 2 in DerivedClass
