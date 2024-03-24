@@ -1,0 +1,15 @@
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\bin\Debug\net8.0\Lab08_Ex07.exe
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\bin\Debug\net8.0\Lab08_Ex07.deps.json
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\bin\Debug\net8.0\Lab08_Ex07.runtimeconfig.json
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\bin\Debug\net8.0\Lab08_Ex07.dll
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\bin\Debug\net8.0\Lab08_Ex07.pdb
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.GeneratedMSBuildEditorConfig.editorconfig
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.AssemblyInfoInputs.cache
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.AssemblyInfo.cs
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.csproj.CoreCompileInputs.cache
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.sourcelink.json
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.dll
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\refint\Lab08_Ex07.dll
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.pdb
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\Lab08_Ex07.genruntimeconfig.cache
+D:\03376836-OOP-2566-Lab-08\65030179_Lab08\Lab08_Ex07\obj\Debug\net8.0\ref\Lab08_Ex07.dll
