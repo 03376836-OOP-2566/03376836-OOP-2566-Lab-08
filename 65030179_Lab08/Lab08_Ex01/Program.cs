@@ -1,9 +1,9 @@
 ﻿Student student1 = new Student();
-student1.Name = "Somchai";
+student1.Name = "Pattarapon";
 System.Console.WriteLine($"student1 name = {student1.Name}");
 
 var student2 = new Student();
-student2.Name = "Sompong";
+student2.Name = "shed0!";
 System.Console.WriteLine($"student2 name = {student2.Name}");
 
 class Person
