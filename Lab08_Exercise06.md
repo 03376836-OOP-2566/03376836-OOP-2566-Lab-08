@@ -48,6 +48,8 @@ dotnet build  Lab08_Ex06
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![6](https://github.com/Siriratda/03376836-OOP-2566-Lab-08/assets/144195995/06904fc1-ab55-4d1b-ae8d-1f180e0c6142)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -56,4 +58,12 @@ dotnet run --project Lab08_Ex06
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![6 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-08/assets/144195995/0f619d19-1247-4536-a4f4-7369c4bcc3a5)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะสืบทอด Class อย่างถูกต้อง
+โปรแกรมจะแสดงผล
+This is BaseClass1
+This is BaseClass2
+This is DerivedClass
