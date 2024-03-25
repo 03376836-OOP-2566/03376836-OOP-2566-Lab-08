@@ -48,6 +48,8 @@ dotnet build  Lab08_Ex05
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![5](https://github.com/Siriratda/03376836-OOP-2566-Lab-08/assets/144195995/a741c263-9588-4c2e-832a-66eee5b5aab3)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -56,4 +58,11 @@ dotnet run --project Lab08_Ex05
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![5 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-08/assets/144195995/973860d7-60ac-4b9a-ba57-71991009264e)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้เพราะ C# ไม่สามารถทำ multiple base class ได้ แก้จากให้เลือก Class อย่างใดอย่างหนึ่ง
+โปรแกรมจะแสดงผล
+This is BaseClass1
+This is DerivedClass
