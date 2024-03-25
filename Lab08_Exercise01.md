@@ -45,6 +45,8 @@ dotnet build  Lab08_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-08/assets/144195995/5ceb405c-dabf-4670-a6ed-970aed06524a)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -53,4 +55,11 @@ dotnet run --project Lab08_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-08/assets/144195995/02e8738b-a541-4c5c-8214-c2523923530c)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้เพราะ ใช้ class person มาสืบทอด
+โปรแกรมจะแสดงผล
+student1 name = Somchai
+student2 name = Sompong
