@@ -36,6 +36,8 @@ dotnet build  Lab08_Ex10
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="538" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-08/assets/144195963/ccd80807-c7c1-4603-ac5a-93905e8aa1c7">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -44,4 +46,9 @@ dotnet run --project Lab08_Ex10
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="419" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-08/assets/144195963/b10f04fe-5320-4531-8ad8-31a4ce989819">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+DC.Field1 = Field1 of DerivedClass
+BC.Field1 = Field1 of BaseClass

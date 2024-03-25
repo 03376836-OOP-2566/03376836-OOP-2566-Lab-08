@@ -45,6 +45,8 @@ dotnet build  Lab08_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="551" alt="Screenshot 2024-03-24 040057" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-08/assets/144195963/0824409f-dd08-4e3d-a81e-1fcc5ca159c9">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -53,4 +55,10 @@ dotnet run --project Lab08_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="551" alt="Screenshot 2024-03-24 040057" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-08/assets/144195963/7c8cebc6-9828-46db-b634-cb79f1e61130">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+
+student1 name = Somchai
+student2 name = Sompong
