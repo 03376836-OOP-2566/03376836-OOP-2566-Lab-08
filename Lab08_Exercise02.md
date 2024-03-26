@@ -58,7 +58,9 @@ dotnet run --project Lab08_Ex02
 
 7.อธิบายสิ่งที่พบในการทดลอง
 - เป็นการทำงานแบบโครงสร้างแบบสืบทอด
+```
 dc.Method1(dc.Field1);: เมธอด Method1() ในคลาส BaseClass ถูกเรียก และฟิลด์ Field1 ในคลาส BaseClass ถูกส่งเป็นอาร์กิวเมนต์ ผลลัพธ์: "Method1() in BaseClass, string input = Field 1 in BaseClass"
 dc.Method2(dc.Field1);: เมธอด Method2() ในคลาส DerivedClass ถูกเรียก และฟิลด์ Field1 ในคลาส BaseClass ถูกส่งเป็นอาร์กิวเมนต์ ผลลัพธ์: "Method2() in DerivedClass, string input = Field 1 in BaseClass"
 dc.Method1(dc.Field2);: เมธอด Method1() ในคลาส BaseClass ถูกเรียก และฟิลด์ Field2 ในคลาส DerivedClass ถูกส่งเป็นอาร์กิวเมนต์ ผลลัพธ์: "Method1() in BaseClass, string input = Field 2 in DerivedClass"
 dc.Method2(dc.Field2);: เมธอด Method2() ในคลาส DerivedClass ถูกเรียก และฟิลด์ Field2 ในคลาส DerivedClass ถูกส่งเป็นอาร์กิวเมนต์ ผลลัพธ์: "Method2() in DerivedClass, string input = Field 2 in DerivedClass"
+```
