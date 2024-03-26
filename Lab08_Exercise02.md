@@ -45,6 +45,7 @@ dotnet build  Lab08_Ex02
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-08/assets/144195708/8074fe90-b7a9-4311-8a85-168622e94f41)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -53,5 +54,12 @@ dotnet run --project Lab08_Ex02
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-08/assets/144195708/b47a551c-9f7b-4913-84a2-4e66b86d0767)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+การใช้งานเมธอดและฟิลด์ของคลาสที่สืบทอดกัน มีคลาส BaseClass เป็นคลาสหลัก และ DerivedClass เป็นคลาสที่สืบทอดมาจาก BaseClass
+เเสดงผล
+Method1() in BaseClass, string input = Field 1 in BaseClass 
+Method2() in DerivedClass, string input = Field 1 in BaseClass 
+Method1() in BaseClass, string input = Field 2 in DerivedClass
+Method2() in DerivedClass, string input = Field 2 in DerivedClass
