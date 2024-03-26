@@ -45,4 +45,4 @@ dotnet run --project Lab08_Ex07
 ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-08/assets/144195611/afd115d4-5f80-4b3f-bd52-56159f599724)
 
 7.อธิบายสิ่งที่พบในการทดลอง
-- มีการแจ้งเตือนwarring เนื่องจากว่า ทีการประกาศ Hello ในคบาส BaseClass และ DerivedClass จะทำให้คุณสมบัติคลาสลูกทับกันoverride 
+- มีการแจ้งเตือนwarring เนื่องจากว่า มีการประกาศ Hello ในคลาส BaseClass และ DerivedClass จะทำให้คุณสมบัติคลาสลูกทับกันoverride 
