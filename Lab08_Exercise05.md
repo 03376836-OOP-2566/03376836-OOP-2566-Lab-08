@@ -84,8 +84,9 @@ class DerivedClass : BaseClass2
         System.Console.WriteLine("This is DerivedClass");
     }
 }
-  ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-08/assets/144195611/24574e29-c529-488e-b55f-2cf193281fa2)
-  ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-08/assets/144195611/12abe130-925e-4511-9b48-fec252a719da)
 ```
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-08/assets/144195611/24574e29-c529-488e-b55f-2cf193281fa2)
+  ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-08/assets/144195611/12abe130-925e-4511-9b48-fec252a719da)
+
 
 - จากรูปเลือกใช้ Baseclass 2 จะเห็นได้ว่าสามารถรันโปรแกรมได้
