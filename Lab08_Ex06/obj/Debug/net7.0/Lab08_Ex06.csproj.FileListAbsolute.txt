@@ -1,0 +1,15 @@
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\bin\Debug\net7.0\Lab08_Ex06.exe
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\bin\Debug\net7.0\Lab08_Ex06.deps.json
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\bin\Debug\net7.0\Lab08_Ex06.runtimeconfig.json
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\bin\Debug\net7.0\Lab08_Ex06.dll
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\bin\Debug\net7.0\Lab08_Ex06.pdb
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.csproj.AssemblyReference.cache
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.GeneratedMSBuildEditorConfig.editorconfig
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.AssemblyInfoInputs.cache
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.AssemblyInfo.cs
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.csproj.CoreCompileInputs.cache
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.dll
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\refint\Lab08_Ex06.dll
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.pdb
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\Lab08_Ex06.genruntimeconfig.cache
+D:\โกศลงาน\03376836-OOP-2566-Lab-08\Lab08_Ex06\obj\Debug\net7.0\ref\Lab08_Ex06.dll
